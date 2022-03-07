@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155571387442",
+    "project_id": "fotogallery-ce384",
+    "storage_bucket": "fotogallery-ce384.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155571387442:android:d00b29bc7f382c419c902b",
+        "android_client_info": {
+          "package_name": "com.example.fotogallery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155571387442-paqsvau48in45b4os39p20lkjkm6v1vj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaBdjoWu0j0aa_I-8pLgp7S5hP6ZTglKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155571387442-paqsvau48in45b4os39p20lkjkm6v1vj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
